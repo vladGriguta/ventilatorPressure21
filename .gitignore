@@ -1,2 +1,7 @@
 # list documents that do not need to be shared
 venv
+data
+submissions.csv
+
+# tools specific
+.ipynb_checkpoints/
